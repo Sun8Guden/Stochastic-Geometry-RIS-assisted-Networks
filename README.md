@@ -1,1 +1,4 @@
-# Stochastic-Geometry-RIS-assisted-Networks
+# A Software Tool for Analyzing RIS-Aided Cellular Networks Based on Stochastic Geometry
+This code repository support 
+* The paper "Sun, G., Baccelli, F., Feng, K., Garcia, L. U., Paris, S. (2023). Performance Analysis of RIS-assisted MIMO-OFDM Cellular Networks Based on Matern Cluster Processes. arXiv preprint arXiv:2310.06754"
+* The workshop talk based on the slides ""
