@@ -1,0 +1,8 @@
+{
+    "den_BS" : 1.0,
+    "den_RIS" : 0, 
+    "num_RIS_elements" : 1000,
+    "radius_min" : 10.0,
+    "radius_max" : 25.0,
+    "UEs_cell" : 5.0
+}
